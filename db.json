@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which React hook is used for managing state in a function component?",
+      "options": [
+        "useEffect",
+        "useState",
+        "useMemo",
+        "useRef"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "Which hook would you use to perform side effects like data fetching?",
+      "options": [
+        "useState",
+        "useEffect",
+        "useMemo",
+        "useContext"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "Which hook can be used to memoize expensive calculations?",
+      "options": [
+        "useState",
+        "useEffect",
+        "useMemo",
+        "useReducer"
+      ],
+      "correctIndex": 2
+    }
+  ],
+  "results": [
+    {
+      "id": "52a4",
+      "name": "srinu",
+      "score": 2,
+      "total": 5
+    },
+    {
+      "id": "9bf0",
+      "name": "srinu",
+      "score": 0,
+      "total": 3
+    },
+    {
+      "id": "ad33",
+      "name": "Srinu",
+      "score": 0,
+      "total": 3
+    },
+    {
+      "id": "8ef5",
+      "name": "srinu",
+      "score": 1,
+      "total": 3
+    },
+    {
+      "id": "bde9",
+      "name": "srinu",
+      "score": 2,
+      "total": 3
+    },
+    {
+      "id": "23ba",
+      "name": "Srinu Jaddu",
+      "score": 0,
+      "total": 3
+    },
+    {
+      "id": "d3e0",
+      "name": "Srinu",
+      "score": 1,
+      "total": 3
+    },
+    {
+      "id": "cb57",
+      "name": "Srinu",
+      "score": 2,
+      "total": 3
+    },
+    {
+      "id": "9683",
+      "name": "Srinu",
+      "score": 0,
+      "total": 3
+    }
+  ],
+  "feedback": [
+    {
+      "id": "11a8",
+      "name": "Srinu___Phone",
+      "email": "srinujaddu1@gmaill.com",
+      "rating": "1",
+      "comments": "needs to improve\n",
+      "timestamp": "2025-12-10T06:20:47.946Z"
+    },
+    {
+      "id": "794f",
+      "name": "Phone",
+      "email": "srinujaddu2@gmaill.com",
+      "rating": "3",
+      "comments": "needs to interactive\n",
+      "timestamp": "2025-12-10T06:21:35.385Z"
+    }
+  ]
+}
